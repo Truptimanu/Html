@@ -1,0 +1,1 @@
+//es5 object oriented library , so we need to use prototype
